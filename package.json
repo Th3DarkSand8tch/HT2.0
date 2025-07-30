@@ -1,7 +1,7 @@
 {
     "name": "HakiTown2.0-Launcher",
     "preductname": "HakiTown 2.0 Launcher",
-    "version": "0.5.0",
+    "version": "1.0.0",
     "description": "Launcher Minecraft pour le serveur HakiTown 2.0",
     "main": "src/app.js",
     "author": {
